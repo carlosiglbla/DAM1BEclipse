@@ -6,5 +6,4 @@ public class Cambio2 {
 		System.out.println("Estoy en prueba1");
 		System.out.println("Nueva línea en cambio2 de prueba1");
 	}
-
 }
